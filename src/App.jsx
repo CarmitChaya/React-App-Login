@@ -3,6 +3,7 @@ import { useState } from "react";
 
 // small "users database"
 const users = {
+  ema:  "0000",
   alice: "1111",
   bob: "2222",
   admin: "1234",
